@@ -1,0 +1,17 @@
+{
+  "name": "01-challenge-tasks-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "zHenri",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.3.4",
+    "dotenv": "^16.0.3"
+  }
+}
